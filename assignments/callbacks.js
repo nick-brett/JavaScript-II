@@ -71,7 +71,7 @@ function contains(item, list, cb) {
   };
   cb(listArray());
 };
-//^^Not sure if correct^^. Tried using arrow on line 62... displayed syntax error
+//^^Not sure if correct^^. Tried using arrow on line 62... displayed syntax error.
 
 
 /* STRETCH PROBLEM */
